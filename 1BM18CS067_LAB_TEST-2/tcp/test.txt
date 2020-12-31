@@ -1,0 +1,4 @@
+Create two process which can exchange messages and interact with each other. Implement the
+code for connection-oriented service while displaying the content of file from ‘D’ drive. Display
+the file content on the client terminal. Use the system IP address and suitable port number for
+the connection establishment.
